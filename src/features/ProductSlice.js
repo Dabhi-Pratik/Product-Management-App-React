@@ -1,7 +1,9 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
-const API = "http://localhost:3001/products";
+
+const API = `${import.meta.env.VITE_API_URL}/products`;
+
 
 // Fetch all products
 export const fetchProducts = createAsyncThunk(
