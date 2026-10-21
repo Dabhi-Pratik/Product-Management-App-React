@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "name": "I-Phone",
+      "qty": 1,
+      "price": 150000,
+      "category": "Electronic",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaGLt9N6Ev7XsEsMV6Hz0Czp8EzPsBv7oH5qU2HPetw&s=10",
+      "id": "i9u_GzClNbw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
