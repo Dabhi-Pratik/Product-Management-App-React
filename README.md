@@ -271,3 +271,8 @@ Potential improvements for future versions include:
 ⭐ If you find this project useful, consider giving the repository a star on GitHub!
 
 **Thank you for checking out my Product Management App!**
+
+<img width="1318" height="910" alt="Screenshot 2026-10-19 093221" src="https://github.com/user-attachments/assets/a8f3f2f1-a24d-4718-8d24-c0d8ab31e4cf" />
+<img width="1327" height="876" alt="Screenshot 2026-10-19 093159" src="https://github.com/user-attachments/assets/aea70ae5-f604-4c06-9afc-6b4c433dd748" />
+<img width="1317" height="271" alt="Screenshot 2026-10-19 093236" src="https://github.com/user-attachments/assets/627ac41f-0573-4203-92bb-e861f86ddca8" />
+
